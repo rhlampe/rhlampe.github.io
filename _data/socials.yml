@@ -1,20 +1,11 @@
-- title: "feed"
-  href: "https://chrisanthropic.github.io/slim-pickins-jekyll-theme/atom.xml"
-
-- title: "googleplus"
-  href: "#"
-
 - title: "facebook"
-  href: "#"
+  href: "https://facebook.com/robhlampe"
   
-- title: "tumblr"
-  href: "#"
-  
-- title: "twitter"
-  href: "https://twitter.com/"
+#- title: "instagram"
+#  href: "https://instagram.com/rhlampe"
 
 - title: "github"
-  href: "https://github.com/chrisanthropic/slim-pickins-jekyll-theme"
+  href: "https://github.com/rhlampe"
 
 - title: "linkedin"
-  href: "https://www.linkedin.com/in/ctarwater"
+  href: "https://www.linkedin.com/in/robhlampe"
