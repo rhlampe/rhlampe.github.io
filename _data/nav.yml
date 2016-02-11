@@ -1,3 +1,11 @@
 - title: "home"
   href: "/"
 
+- title: "research"
+  href: "/research/"
+
+- title: "publications"
+  href: "/publications/"
+
+- title: "cv"
+  href: "/files/lampe_cv.pdf"

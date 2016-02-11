@@ -1,0 +1,23 @@
+---
+layout: default
+title: research 
+header: yes
+header_sml: images/banner3-small.jpg
+header_med: images/banner3-med.jpg
+header_large: images/banner3-large.jpg
+header_xl: images/banner3-xl.jpg
+---
+
+<article class="row">
+  <section class="small-12 large-8 columns page-content">
+
+<h2>Current Research</h2>
+
+<p>Coming Soon</p>
+
+<h2>Past Research</h2>
+  
+<p>Coming Soon</p>
+
+  </section>
+</article>
