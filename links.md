@@ -27,4 +27,4 @@ header_xl: images/banner2-xl.jpg
 </ul>   
 
   </section>
-/</article>
+</article>
