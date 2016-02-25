@@ -3,10 +3,10 @@ layout: default
 title: cv 
 permalink: /cv/
 header: yes
-header_sml: images/banner2-small.jpg
-header_med: images/banner2-med.jpg
-header_large: images/banner2-large.jpg
-header_xl: images/banner2-xl.jpg
+header_sml: images/banner4-small.jpg
+header_med: images/banner4-med.jpg
+header_large: images/banner4-large.jpg
+header_xl: images/banner4-xl.jpg
 ---
 
 <article class="row">
