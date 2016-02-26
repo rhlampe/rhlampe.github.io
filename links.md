@@ -3,10 +3,10 @@ layout: default
 title: links 
 permalink: /links/
 header: yes
-header_sml: images/banner2-small.jpg
-header_med: images/banner2-med.jpg
-header_large: images/banner2-large.jpg
-header_xl: images/banner2-xl.jpg
+header_sml: images/banner5-small.jpg
+header_med: images/banner5-med.jpg
+header_large: images/banner5-large.jpg
+header_xl: images/banner5-xl.jpg
 ---
 
 <article class="row">
