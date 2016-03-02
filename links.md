@@ -26,5 +26,14 @@ header_xl: images/banner5-xl.jpg
   <li><a href="http://www.sciencenc.com/">North Carolina Science Olympiad</a></li>
 </ul>   
 
+
+<br /><br />
+<h2>Photo Credits</h2>
+<ul>
+  <li><a href="http://planktonchronicles.org/en/episode/diatoms-life-in-glass-houses/">Pennate Diatom</a> - C and N Sardet, S Mirshak, CNRS, Parafilms</li>
+  <li><a href="https://www.flickr.com/photos/zeissmicro/18928492436">Diatom</a> - ZEISS Microscopy</a>
+  <li><a href="https://www.flickr.com/photos/gi/6784269287">close encounters of the 23rd type</a> - Gisela Giardino</a>
+</ul>
+
   </section>
 </article>
