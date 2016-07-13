@@ -16,7 +16,7 @@ header_xl: images/banner5-xl.jpg
 
 <ul>
   <li><a href="http://marchettilab.web.unc.edu/">Marchetti Lab</a> - Current Lab at UNC Chapel Hill</li>
-  <li><a href="http://www4.ncsu.edu/~aschnet/">Schnetzer Lab</a> - Undergraduate Lab at North Carolina State University</li>
+  <li><a href="https://sites.google.com/a/ncsu.edu/schnetzerlab/home">Schnetzer Lab</a> - Undergraduate Lab at North Carolina State University</li>
 </ul>
 
 <h2>Outreach</h2>
