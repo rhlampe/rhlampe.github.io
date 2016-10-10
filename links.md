@@ -3,10 +3,10 @@ layout: default
 title: links 
 permalink: /links/
 header: yes
-header_sml: images/banner6-small.jpg
-header_med: images/banner6-med.jpg
-header_large: images/banner6-large.jpg
-header_xl: images/banner6-xl.jpg
+header_sml: images/banner5-small.jpg
+header_med: images/banner5-med.jpg
+header_large: images/banner5-large.jpg
+header_xl: images/banner5-xl.jpg
 ---
 
 <article class="row">
@@ -32,7 +32,6 @@ header_xl: images/banner6-xl.jpg
 <ul>
   <li><a href="http://planktonchronicles.org/en/episode/diatoms-life-in-glass-houses/">Pennate Diatom</a> - C and N Sardet, S Mirshak, CNRS, Parafilms</li>
   <li><a href="https://www.flickr.com/photos/zeissmicro/18928492436">Diatom</a> - ZEISS Microscopy</li>
-  <li><a href="https://www.flickr.com/photos/gi/6784269287">close encounters of the 23rd type</a> - Gisela Giardino</li>
 </ul>
 
   </section>
