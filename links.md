@@ -24,6 +24,7 @@ header_xl: images/banner5-xl.jpg
   <li><a href="http://underthecblog.org/">Under the C Blog</a> - Graduate Student Marine Sciences Blog (contributor)</li>
   <li><a href="http://www.thesciren.org/">SciRen</a> - The Scientific Research and Education Network</li>
   <li><a href="http://www.sciencenc.com/">North Carolina Science Olympiad</a></li>
+  <li><a href="http://www.ncmls.org/">Museum of Life and Science</a> - Durham, NC</li>
 </ul>   
 
 
