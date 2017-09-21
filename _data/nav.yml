@@ -10,8 +10,12 @@
 - title: "cv"
   href: "/cv/"
 
-- title: "tools"
-  href: "/tools/"
+- title: "resources"
+  subcategories:
+    - subtitle: "software"
+      subhref: "/tools"
+    - subtitle: "education"
+      subhref: "/education"
 
 - title: "links"
   href: "/links/"
