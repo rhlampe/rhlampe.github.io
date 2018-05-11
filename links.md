@@ -28,12 +28,5 @@ header_xl: images/banner5-xl.jpg
 </ul>   
 
 
-<br /><br />
-<h2>Photo Credits</h2>
-<ul>
-  <li><a href="http://planktonchronicles.org/en/episode/diatoms-life-in-glass-houses/">Pennate Diatom</a> - C and N Sardet, S Mirshak, CNRS, Parafilms</li>
-  <li><a href="https://www.flickr.com/photos/zeissmicro/18928492436">Diatom</a> - ZEISS Microscopy</li>
-</ul>
-
   </section>
 </article>
