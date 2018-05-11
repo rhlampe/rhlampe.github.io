@@ -12,11 +12,11 @@ header_xl: images/banner5-xl.jpg
 <article class="row">
   <section class="small-12 large-8 columns page-content">
 
-<h2>Labs</h2>
+<h2>Former Labs</h2>
 
 <ul>
-  <li><a href="http://marchettilab.web.unc.edu/">Marchetti Lab</a> - Current Lab at UNC Chapel Hill</li>
-  <li><a href="https://sites.google.com/a/ncsu.edu/schnetzerlab/home">Schnetzer Lab</a> - Undergraduate Lab at North Carolina State University</li>
+  <li><a href="http://marchettilab.web.unc.edu/">Marchetti Lab, UNC Chapel Hill</a></li>
+  <li><a href="https://sites.google.com/a/ncsu.edu/schnetzerlab/home">Schnetzer Lab, North Carolina State University</a></li>
 </ul>
 
 <h2>Outreach</h2>
