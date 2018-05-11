@@ -16,7 +16,8 @@ header_xl: images/banner2-xl.jpg
 
 <div id="publications">
 <ol reversed>
-  <li><b>Lampe RH</b>, Cohen NR, Ellis KA, Bruland KW, Maldonado MT, Peterson TD, Parker CE, Brzezinski MA, Bargu S, Thamatrakoln K, Kuzminov FI, Twining BS, and Marchetti A. (in review) Divergent gene expression among phytoplankton taxa in response to upwelling. <i>Environmental Microbiology</i>.</li>
+  <li><b>Lampe RH</b>, Mann EL, Cohen NR, Till CP, Thamatrakoln K, Brzezinski MA, Bruland KW, Twining BS, and Marchetti A. (in review) Different iron storage strategies among bloom-forming diatoms.</li>
+  <li><b>Lampe RH</b>, Cohen NR, Ellis KA, Bruland KW, Maldonado MT, Peterson TD, Till CP, Brzezinski MA, Bargu S, Thamatrakoln K, Kuzminov FI, Twining BS, and Marchetti A. (in review) Divergent gene expression among phytoplankton taxa in response to upwelling. <i>Environmental Microbiology</i>.</li>
   <li>Till CP, Solomon JR, Cohen NR, <b>Lampe RH</b>, Marchetti A, Coale TH, and Bruland KW. (in revision) The iron limitaiton mosaic in the California Current System: factors governing Fe availability. <i>Limnology and Oceanography</i></li>
   <li>Cohen NR, Ellis KA, <b>Lampe RH</b>, McNair H, Twining BS, Brzezinski MA, Maldonado MT, Kuminov FI, Thamatrakoln K, Till CP, Bruland KW, Sunda WG, Bargu S, and Marchetti A. (2017) <a href="http://dx.doi.org/10.3389/fmars.2017.00360">Variations in diatom transcriptional response to changes in iron availability across ocean provinces</a>. <i>Frontiers in Marine Science</i> 4, 360.</li>
   <li>Cohen NR, Ellis KA, Burns WG, <b>Lampe RH</b>, Schuback N, Johnson ZI, Sa&ntilde;udo-Wilhelmy SA, and Marchetti A. (2017) <a href="http://dx.doi.org/10.1002/lno.10552">Iron and vitamin interactions in marine diatom isolates and natural assemblages of the Northeast Pacific Ocean</a>. <i>Limnology and Oceanography</i> 62, 2076-2096.</li>
