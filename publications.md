@@ -24,8 +24,13 @@ header_xl: images/banner2-xl.jpg
   <li>Marchetti A, Moreno CM, Cohen NR, Oleinikov I, Delong K, Twining BS, Armbrust EV, and <b>Lampe RH</b>. (2017) <a href="http://dx.doi.org/10.1111/jpy.12539">Development of a molecular-based index for assessing iron status in bloom-forming pennate diatoms</a>. <i>Journal of Phycology</i> 53, 820-832.</li>
   <li>Schnetzer A, <b>Lampe RH</b>, Benitez-Nelson CR, Marchetti A, Osburn CL, and Tatters AO. (2017) <a href="http://dx.doi.org/10.1016/j.hal.2016.11.008">Marine snow formation by the toxin-producing diatom, <i>Pseudo-nitzschia australis</i></a>. <i>Harmful Algae</i> 61, 23-30.</li>
 </ol>
-</div>
 
+<h2>Other Products</h2>
+<ul>
+  <li>Lampe RH (2018) Distinct strategies by bloom-forming diatoms to frequently-encountered shifts in their environment. MSc thesis, University of North Carolina at Chapel Hill. <a href="/files/Lampe_MS_thesis.pdf">[pdf]</a></li>
+</ul>
+
+</div>
   </section>
 
   <aside class="small-12 large-4 columns page-content recent-posts">
