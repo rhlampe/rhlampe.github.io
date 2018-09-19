@@ -12,10 +12,12 @@
 
 - title: "resources"
   subcategories:
+    - subtitle: "data"
+      subhref: "/data/"
     - subtitle: "software"
-      subhref: "/tools"
+      subhref: "/tools/"
     - subtitle: "education"
-      subhref: "/education"
+      subhref: "/education/"
 
 - title: "links"
   href: "/links/"
