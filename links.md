@@ -12,7 +12,7 @@ header_xl: images/banner5-xl.jpg
 <article class="row">
   <section class="small-12 large-8 columns page-content">
 
-<h2>Former Labs</h2>
+<h2>Formerly affiliated labs</h2>
 
 <ul>
   <li><a href="http://marchettilab.web.unc.edu/">Marchetti Lab, UNC Chapel Hill</a></li>
@@ -26,7 +26,6 @@ header_xl: images/banner5-xl.jpg
   <li><a href="http://www.sciencenc.com/">North Carolina Science Olympiad</a></li>
   <li><a href="http://www.ncmls.org/">Museum of Life and Science</a> - Durham, NC</li>
 </ul>   
-
 
   </section>
 </article>
