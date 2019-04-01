@@ -19,10 +19,16 @@ header_xl: images/banner5-xl.jpg
   <li><a href="https://sites.google.com/a/ncsu.edu/schnetzerlab/home">Schnetzer Lab, North Carolina State University</a></li>
 </ul>
 
-<h2>Outreach</h2>
+<h2>Outreach (current)</h2>
+<ul>
+  <li><a href="http://science-ing.org/">The League of Extraordinary Scientists and Engineers (LXS)</a></li>
+  <li><a href="https://scripps.ucsd.edu/scope">Scripps Community Outreach for Public Education (SCOPE)</a></li>
+</ul>
+
+<h2>Outreach (former)</h2>
 <ul>
   <li><a href="http://underthecblog.org/">Under the C Blog</a> - Graduate Student Marine Sciences Blog (contributor)</li>
-  <li><a href="http://www.thesciren.org/">SciRen</a> - The Scientific Research and Education Network</li>
+  <li><a href="http://www.sciren.org/">SciRen</a> - The Scientific Research and Education Network</li>
   <li><a href="http://www.sciencenc.com/">North Carolina Science Olympiad</a></li>
   <li><a href="http://www.ncmls.org/">Museum of Life and Science</a> - Durham, NC</li>
 </ul>   
