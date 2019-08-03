@@ -16,7 +16,7 @@ header_xl: images/banner2-xl.jpg
 
 <div id="publications">
 <ol reversed>
-  <li><b>Lampe RH</b>, Wang S, Cassar N, and Marchetti A. (in revision) Strategies among phytoplankton in response to alleviation of nutrient stress in a subtropical gyre.</li>
+  <li><b>Lampe RH</b>, Wang S, Cassar N, and Marchetti A. (in press) Strategies among phytoplankton in response to alleviation of nutrient stress in a subtropical gyre.</li>
   <li>Till CP, Solomon JR, Cohen NR, <b>Lampe RH</b>, Marchetti A, Coale TH, and Bruland KW. (2019) <a href="https://dx.doi.org/10.1002/lno.11022">The iron limitation mosaic in the California Current System: factors governing Fe availability in the shelf/near-shelf region</a>. <i>Limnology and Oceanography</i> 64, 109-123.</li>
   <li><b>Lampe RH</b>, Mann EL, Cohen NR, Till CP, Thamatrakoln K, Brzezinski MA, Bruland KW, Twining BS, and Marchetti A. (2018) <a href="https://doi.org/10.1073/pnas.1805243115">Different iron storage strategies among bloom-forming diatoms</a>. <i>Proceedings of the National Academy of Sciences USA</i> 115, E12275-E12284.</li>
   <li><b>Lampe RH</b>, Cohen NR, Ellis KA, Bruland KW, Maldonado MT, Peterson TD, Till CP, Brzezinski MA, Bargu S, Thamatrakoln K, Kuzminov FI, Twining BS, and Marchetti A. (2018) <a href="http://dx.doi.org/10.1111/1462-2920.14361">Divergent gene expression among phytoplankton taxa in response to upwelling</a>. <i>Environmental Microbiology</i> 20, 3069-3082.</li>
