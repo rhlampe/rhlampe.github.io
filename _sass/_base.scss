@@ -168,3 +168,11 @@ ol li {
     margin-bottom: 0.5em;
 }
 
+
+.boxrow {
+  display: flex;
+}
+
+.boxcolumn {
+  flex: 50%;
+}
