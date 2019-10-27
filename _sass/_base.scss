@@ -170,9 +170,9 @@ ol li {
 
 
 .boxrow {
-  display: flex;
+  display:flex;
+  flex-wrap: wrap;
 }
 
 .boxcolumn {
-  flex: 50%;
 }
