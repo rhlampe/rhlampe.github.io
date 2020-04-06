@@ -18,6 +18,8 @@
       subhref: "/tools/"
     - subtitle: "education"
       subhref: "/education/"
+    - subtitle: "protocols"
+      subhref: "https://www.protocols.io/researchers/rob-lampe/publications"
 
 - title: "links"
   href: "/links/"
