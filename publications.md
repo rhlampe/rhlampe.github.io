@@ -3,10 +3,10 @@ layout: default
 title: publications 
 permalink: /publications/
 header: yes
-header_sml: images/banner2-small.jpg
-header_med: images/banner2-med.jpg
-header_large: images/banner2-large.jpg
-header_xl: images/banner2-xl.jpg
+header_sml: images/banner8-small.png
+header_med: images/banner8-med.png
+header_large: images/banner8-large.png
+header_xl: images/banner8-xl.png
 ---
 
 <article class="row">
