@@ -10,7 +10,7 @@ header_xl: images/banner6-xl.jpg
 ---
 
 <article class="row">
-  <section class="small-12 large-8 columns page-content">
+  <section class="small-12 large-9 columns page-content">
 
 <h2>Data from publications</h2>
 
