@@ -18,7 +18,7 @@ header_xl: images/banner2-xl.jpg
 <h2>Curriculum Vitae</h2>
 
 <a href="/files/lampe_cv.pdf" download>[Download]</a><br /><br />
- 
+
 <object data="/files/lampe_cv.pdf" type="application/pdf" width="968" height="778">
   alt : <a href="/files/lampe_cv.pdf">CV.pdf</a>
 </object>
