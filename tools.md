@@ -22,6 +22,8 @@ MANTA
 <img src="/images/manta.jpg" width="250" height="250" align="left" hspace="20" style="box-shadow: 3px 3px 1px #888888; border:3px solid black; margin-bottom:20px"> 
 
 <p align="justify">R function for making MA plots with taxonomic pie charts as points.</p>
+
+<p align="justifY">I'm currently working on an updated version that uses ggplot. Please contact me if you're interested.</p>
 <a href="https://github.com/marchettilab/mantaPlot">Source Code (github)</a>
 <br /><br/><br /><br /><br /><br /><br /><br /><br /><br />
 

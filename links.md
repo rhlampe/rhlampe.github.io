@@ -22,6 +22,7 @@ header_xl: images/banner5-xl.jpg
 <h2>Outreach (current)</h2>
 <ul>
   <li><a href="http://science-ing.org/">The League of Extraordinary Scientists and Engineers (LXS)</a></li>
+  <li><a href="https://scirenplans.com/">SciREN San Diego</a></li>
   <li><a href="https://scripps.ucsd.edu/scope">Scripps Community Outreach for Public Education (SCOPE)</a></li>
 </ul>
 
