@@ -28,7 +28,7 @@ header_xl: images/banner8-xl.png
   <li>Schnetzer A, <b>Lampe RH</b>, Benitez-Nelson CR, Marchetti A, Osburn CL, and Tatters AO. (2017) <a href="http://dx.doi.org/10.1016/j.hal.2016.11.008">Marine snow formation by the toxin-producing diatom, <i>Pseudo-nitzschia australis</i></a>. <i>Harmful Algae</i> 61, 23-30.</li>
 </ol>
 
-<h2>Thesis</h2>
+<h2>Master's Thesis</h2>
 <ul>
   <li>Lampe RH (2018) <a href="https://cdr.lib.unc.edu/record/uuid:b1a96afd-a2b1-4a7d-a6a1-968254dee6d7">Distinct strategies by bloom-forming diatoms to frequently-encountered shifts in their environment. MSc thesis, University of North Carolina at Chapel Hill.</a> <a href="/files/Lampe_MS_thesis.pdf">[pdf]</a></li>
 </ul>
