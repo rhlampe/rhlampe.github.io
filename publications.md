@@ -16,8 +16,8 @@ header_xl: images/banner8-xl.png
 
 <div id="publications">
 <ol reversed>
-  <li><b>Lampe RH</b>, Hernandez G, Lin Y-Y, and Marchetti A. (in review) Representative diatom and coccolithophore species exhibit divergent responses throughout simulated upwelling cycles (<a href="https://doi.org/10.1101/2020.04.30.071480">bioRxiv preprint</a>).</li>
-  <li>Kranzler CF, Brzezinski MA, Cohen NR, <b>Lampe RH</b>, Maniscalco M, Till CP, Mack J, Latham JR, Bruland KW, Twining BS, Marchetti A, and Thamatrakoln K. (in press) Impaired viral infection of diatoms in iron-limited oceanic regimes. <i>Nature Geoscience</i></li>
+  <li><b>Lampe RH</b>, Hernandez G, Lin Y-Y, and Marchetti A. (in press) Representative diatom and coccolithophore species exhibit divergent responses throughout simulated upwelling cycles. <i>mSystems</i> (<a href="https://doi.org/10.1101/2020.04.30.071480">bioRxiv preprint</a>).</li>
+  <li>Kranzler CF, Brzezinski MA, Cohen NR, <b>Lampe RH</b>, Maniscalco M, Till CP, Mack J, Latham JR, Bruland KW, Twining BS, Marchetti A, and Thamatrakoln K. (in press) Impaired viral infection of diatoms in iron-limited oceanic regimes. <i>Nature Geoscience</i>.</li>
   <li><b>Lampe RH</b>, Wang S, Cassar N, and Marchetti A. (2019) <a href="https://doi.org/10.1038/s41396-019-0489-6">Strategies among phytoplankton in response to alleviation of nutrient stress in a subtropical gyre</a>. <i>The ISME Journal</i> 13, 2984-2997.</li>
   <li>Till CP, Solomon JR, Cohen NR, <b>Lampe RH</b>, Marchetti A, Coale TH, and Bruland KW. (2019) <a href="https://dx.doi.org/10.1002/lno.11022">The iron limitation mosaic in the California Current System: factors governing Fe availability in the shelf/near-shelf region</a>. <i>Limnology and Oceanography</i> 64, 109-123.</li>
   <li><b>Lampe RH</b>, Mann EL, Cohen NR, Till CP, Thamatrakoln K, Brzezinski MA, Bruland KW, Twining BS, and Marchetti A. (2018) <a href="https://doi.org/10.1073/pnas.1805243115">Different iron storage strategies among bloom-forming diatoms</a>. <i>Proceedings of the National Academy of Sciences USA</i> 115, E12275-E12284.</li>
