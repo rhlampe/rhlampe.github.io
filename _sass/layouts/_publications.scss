@@ -1,0 +1,12 @@
+.publications {
+  $link-color: #4478A6;
+  $hover-color: darken($link-color, 20%);
+  $visited-color: lighten($link-color, 20%);
+
+  //link styling
+  a {
+    color: $link-color;
+    text-decoration: none;
+   }
+ }
+
