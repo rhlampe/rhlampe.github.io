@@ -5,13 +5,13 @@ overrides:
     owner: al_folio_core
     gem_version: 1.0.15
     upstream_path: _sass/_components.scss
-    upstream_sha256: '088665537c10a0f1b996891a3a24de9e8052e0a6b01efef637288781dce8d453'
+    upstream_sha256: "088665537c10a0f1b996891a3a24de9e8052e0a6b01efef637288781dce8d453"
     local_sha256: fdd4c87498148d261af39445ebb0792655a49e37359b32a02a7bb7c286ff24df
-    acknowledged_at: '2026-10-29'
+    acknowledged_at: "2026-10-29"
   _sass/_themes.scss:
     owner: al_folio_core
     gem_version: 1.0.15
     upstream_path: _sass/_themes.scss
     upstream_sha256: b581e43dcfbf21c14f388e2b585474c886fad62f6b5a0444f7832e7f69745f1f
     local_sha256: 77dbc1540051f58b1329d962a4a8a329c7227738eefab95aeca5e1a297a1fd41
-    acknowledged_at: '2026-10-29'
+    acknowledged_at: "2026-10-29"
