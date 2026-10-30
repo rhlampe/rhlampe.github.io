@@ -21,8 +21,8 @@ _styles: |
 
 ### Development and optimization of methods for high-throughput omics
 
-<h3 style="text-align: center;">Field Work Sites</h3>
+<h3 style="text-align: center;">Field Sample Locations</h3>
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/img/field_work_map.png' | relative_url }}" alt="Map of field work sites overlaid on global surface nitrate concentrations" class="img-fluid" style="max-width: 450px;" />
+  <img src="{{ '/assets/img/field_work_map.png' | relative_url }}" alt="Map of field sample locations overlaid on global surface nitrate concentrations" class="img-fluid" style="max-width: 450px;" />
 </div>
