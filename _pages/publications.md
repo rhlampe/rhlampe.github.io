@@ -13,7 +13,7 @@ _styles: |
   }
 ---
 
-<div class="social" style="text-align:center; margin-top: -1rem;">
+<div class="social" style="text-align:center; margin-top: -1rem; margin-bottom: 1.5rem;">
   <div class="contact-icons">
     <a href="https://scholar.google.com/citations?user=RkMyBI0AAAAJ" title="Google Scholar" rel="external nofollow noopener" target="_blank"><i class="ai ai-google-scholar"></i></a>
     <a href="https://www.researchgate.net/profile/Robert-Lampe/" title="ResearchGate" rel="external nofollow noopener" target="_blank"><i class="ai ai-researchgate"></i></a>
@@ -56,7 +56,7 @@ _styles: |
 </ol>
 </div>
 
-<h4>In Review &amp; In Revision</h4>
+<h4>In Review &amp; Revision</h4>
 <ul>
   <li><b>Lampe RH</b>, Wood-Rocca SM, and AE Allen. (in revision) Phytoplankton community responses to environmental change in the California Current Ecosystem.</li>
   <li><b>Lampe RH</b>, Rao D, Kell RM, Chmiel RJ, Schanke NL, Kim SY, Lees LE, Bolinesi F, Mangoni O, Casotti R, Balestra C, Zheng H, Moran DM, Allen AE, McIlvin MR, DiTullio GR, and MA Saito. (in review) Primary vitamin B<sub>12</sub> limitation and widespread stress in Antarctic phytoplankton.</li>
