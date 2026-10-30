@@ -14,6 +14,9 @@ _styles: |
   article li {
     margin-bottom: 0.4rem;
   }
+  #publications {
+    margin-top: 0.5rem;
+  }
 ---
 
 <div class="social" style="text-align:center; margin-top: -1rem; margin-bottom: 1.5rem;">
