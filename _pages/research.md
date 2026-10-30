@@ -8,6 +8,9 @@ _styles: |
   .post-header {
     text-align: center;
   }
+  div.container.mt-5 {
+    max-width: 870px;
+  }
 ---
 
 ### Patterns in phytoplankton abundances, community structure, and function
