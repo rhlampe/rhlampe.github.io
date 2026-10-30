@@ -7,7 +7,8 @@
  * 2.5rem (the cv/email/scholar/researchgate icons on the about and
  * publications pages); .profile.float-right gets a -5rem top margin,
  * scoped to the >=576px breakpoint only, to pull the about-page photo up
- * level with the header without it overlapping the header on mobile.
+ * level with the header without it overlapping the header on mobile; below
+ * 576px the photo shrinks to 80% width, unfloated and centered.
  ******************************************************************************/
 
 // Checklist
@@ -107,6 +108,17 @@ ul.task-list input[type="checkbox"] {
 
 .profile.float-left {
   margin-right: 1rem;
+}
+
+@media (max-width: 575px) {
+  .profile.float-right {
+    float: none;
+    width: 80%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 1rem;
+    margin-inline: auto;
+  }
 }
 
 @media (min-width: 576px) {
