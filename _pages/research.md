@@ -20,3 +20,7 @@ _styles: |
 ### Responses to natural disturbances, long-term environmental change, and anthropogenic influences
 
 ### Development and optimization of methods for high-throughput omics
+
+### Field Work Sites
+
+<img src="{{ '/assets/img/field_work_map.png' | relative_url }}" alt="Map of field work sites overlaid on global surface nitrate concentrations" class="img-fluid" />
