@@ -11,6 +11,9 @@ _styles: |
   #publications ol {
     padding-left: 1.5rem;
   }
+  article li {
+    margin-bottom: 0.4rem;
+  }
 ---
 
 <div class="social" style="text-align:center; margin-top: -1rem; margin-bottom: 1.5rem;">
