@@ -11,6 +11,14 @@ _styles: |
   div.container.mt-5 {
     max-width: 870px;
   }
+  #field-sample-map {
+    max-width: 450px;
+  }
+  @media (max-width: 575px) {
+    #field-sample-map {
+      max-width: 300px;
+    }
+  }
 ---
 
 ### Patterns in phytoplankton abundances, community structure, and function
@@ -24,5 +32,5 @@ _styles: |
 <h3 style="text-align: center;">Field Sample Locations</h3>
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/img/field_work_map.png' | relative_url }}" alt="Map of field sample locations overlaid on global surface nitrate concentrations" class="img-fluid" style="max-width: 450px;" />
+  <img id="field-sample-map" src="{{ '/assets/img/field_work_map.png' | relative_url }}" alt="Map of field sample locations overlaid on global surface nitrate concentrations" class="img-fluid" />
 </div>
