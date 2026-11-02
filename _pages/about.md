@@ -8,8 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p><a href="mailto:robert.lampe@whoi.edu">robert.lampe@whoi.edu</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,4 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-More info coming soon...
+I study the ecology, physiology, and molecular biology of marine phytoplankton. My research explores a wide range of topics, but is mostly within a few themes: (1) patterns in phytoplankton abundances, diversity, and function, (2) nutrient requirements, use, and stress responses to limitation, and (3) responses to natural variability and anthropogenic change. I am also interested in improving methods for environmental omics (metabarcoding, metatranscriptomics, metaproteomics) characterization of marine microbes spanning sample collection, extraction and purification, and informatics.
+
+For more information, see my [research overview](/research/) or [publications](/publications/). I also have some publicly available [protocols](/protocols/), but I am happy to share additional methods not posted online.
+
+If you want to get in touch, please email me at [robert.lampe@whoi.edu](mailto:robert.lampe@whoi.edu).
