@@ -23,8 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I study the ecology, physiology, and molecular biology of marine phytoplankton. My research explores a wide range of topics, but is mostly within a few themes: (1) patterns in phytoplankton abundances, diversity, and function, (2) nutrient requirements, use, and stress responses to limitation, and (3) responses to natural variability and anthropogenic change. I am also interested in improving methods for environmental omics (metabarcoding, metatranscriptomics, metaproteomics) characterization of marine microbes spanning sample collection, extraction and purification, and informatics.
+I study the ecology, physiology, and molecular biology of marine phytoplankton. My research spans a wide range of topics but centers on three main themes: (1) patterns in phytoplankton abundance, diversity, and function, (2) nutrient requirements, utilization, and responses to limitation, and (3) responses to natural variability and anthropogenic change. I am also interested in improving methods for characterizing marine microbes using environmental omics (metabarcoding, metatranscriptomics, and metaproteomics), spanning sample collection, extraction and purification, and bioinformatics.
 
-For more information, see my [research overview](/research/) or [publications](/publications/). I also have some publicly available [protocols](/protocols/), but I am happy to share additional methods not posted online.
+For more information, see my [research overview](/research/) and [publications](/publications/). I also have several publicly available [protocols](/protocols/) and am happy to share additional methods not posted online.
 
-If you want to get in touch, please email me at [robert.lampe@whoi.edu](mailto:robert.lampe@whoi.edu).
+If you'd like to get in touch, please email me at [robert.lampe@whoi.edu](mailto:robert.lampe@whoi.edu).
