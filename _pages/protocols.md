@@ -14,8 +14,8 @@ Below are publicly available protocols for sample collection, nucleic acid extra
 
 Automated extractions from sterivex filters with an Eppendorf epMotion.
 
-- [sterivex DNA extraction](https://dx.doi.org/10.17504/protocols.io.bc2hiyb6)
-- [sterivex RNA extraction](https://dx.doi.org/10.17504/protocols.io.bd9ti96n)
+- [Sterivex DNA extraction](https://dx.doi.org/10.17504/protocols.io.bc2hiyb6)
+- [Sterivex RNA extraction](https://dx.doi.org/10.17504/protocols.io.bd9ti96n)
 
 ## Amplicon library preparation
 
