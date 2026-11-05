@@ -240,7 +240,6 @@ transition: none;
       Most of the papers I review are accepted. Some need very little revision. For others, I make a concerted effort
       to identify their merit and find an avenue towards publication. Papers that were rejected often had serious flaws.
     </li>
-    <li>I think that if everyone made similar efforts, the world would be a little better.</li>
   </ul>
 
   <div class="stats" id="stats"></div>
