@@ -4,6 +4,12 @@ permalink: /research/
 title: Research
 nav: true
 nav_order: 1
+dropdown: true
+children:
+  - title: Overview
+    permalink: /research/
+  - title: Photo Gallery
+    permalink: /gallery/
 _styles: |
   .post-header {
     text-align: center;
@@ -55,7 +61,7 @@ As phytoplankton are the base of the marine food web and are responsible for ~50
   <div class="caption">On-deck incubators for nutrient addition experiments.</div>
 </div>
 
-Phytoplankton growth in the ocean is limited by a variety of nutrients, including nitrogen, iron, and vitamins. On a cellular level, demand for nutrients and membrane space available for uptake form the basis for nutrient limitation. As a result, I investigate nutrient acquisition, use, and limitation both in natural communities and in individual cells. Previous and current research has examined responses to [nitrogen and iron availability](https://doi.org/10.1128/mSystems.00188-21) among diverse phytoplankton lineages. Recently, I published a [review](https://doi.org/10.1146/annurev-micro-041222-023252) describing iron acquisition, use, and responses to limitation in phytoplankton. I have also been using full-factorial, trace metal clean incubation experiments in the California Current, Indian Ocean, and Southern Ocean to evaluate the order of limiting nutrients in natural communities.
+Phytoplankton growth in the ocean is limited by a variety of nutrients, including nitrogen, iron, and vitamins. On a cellular level, demand for nutrients and membrane space available for uptake form the basis for nutrient limitation. As a result, I investigate nutrient acquisition, use, and limitation both in natural communities and in individual cells. Previous and current research has examined responses to [nitrogen and iron availability](https://doi.org/10.1128/mSystems.00188-21) among diverse phytoplankton lineages. Recently, I published a [review](https://doi.org/10.1146/annurev-micro-041222-023252) describing iron acquisition, use, and responses to limitation in phytoplankton. I have also been using full-factorial, trace metal clean incubation experiments in the California Current, Indian Ocean, and Southern Ocean to evaluate the order of limiting nutrients in natural communities. Our study in the Southern Ocean revealed primary vitamin B<sub>12</sub> limitation in a coastal phytoplankton community; see the preprint [here](https://doi.org/10.64898/2026.11.05.764676).
 
 </div>
 

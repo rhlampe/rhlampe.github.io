@@ -1,0 +1,56 @@
+# Photos for the Research > Photo Gallery page (_pages/gallery.md), shown in this order.
+# Put image files in assets/img/gallery/ and list them here. `alt` describes the photo for screen readers.
+- image: assets/img/gallery/img_1757.jpg
+  alt: Prepping the CTD for a cast on the 2023 ETNP cruise
+  caption:
+- image: assets/img/gallery/img_20220222_100047534.jpg
+  alt: "Collecting trace metal clean seawater in the Indian Ocean. Credit: Mike Landry"
+  caption:
+- image: assets/img/gallery/img-20230315-wa0002.jpg
+  alt: Deploying a bongo net to collect zooplankton
+  caption:
+- image: assets/img/gallery/img_1755.jpg
+  alt: Planning sample collection on the 2023 ETNP cruise on the R/V Sally Ride
+  caption:
+- image: assets/img/gallery/pxl_20230418_213938640.jpg
+  alt: Filtering seawater to collect microbial DNA and RNA.
+  caption:
+- image: assets/img/gallery/pxl_20230424_140429594.jpg
+  alt: Coming into port in San Francisco with the FSV Bell M. Shimada
+  caption:
+- image: assets/img/gallery/img_2296.jpg
+  alt: "Collecting bottles following on deck incubation. Credit: Carl Lamborg"
+  caption:
+- image: assets/img/gallery/img_20191025_105827.jpg
+  alt: Exploring tide pools in La Jolla with students
+  caption:
+- image: assets/img/gallery/img_20200814_111004.jpg
+  alt: Extracting DNA from different phases of a dinoflagellate bloom
+  caption:
+- image: assets/img/gallery/img_20200115_173948.jpg
+  alt: Automated assay for omics sample preperation with an Eppendorf epMotion
+  caption:
+- image: assets/img/gallery/pxl_20210223_220011351.jpg
+  alt: Genomic DNA extraction for Chaetoceros muelleri (CCMP1316)
+  caption:
+- image: assets/img/gallery/img_20170326_181343.jpg
+  alt: Low iron experiments with G. huxleyi
+  caption:
+- image: assets/img/gallery/imag0321.jpg
+  alt: Simulating marine snow formation with Pseudo-nitzschia australis
+  caption:
+- image: assets/img/gallery/pxl_20260319_181436952.jpg
+  alt: Light versus dark growth in Chlamydomonas reinhardtii
+  caption:
+- image: assets/img/gallery/image_232.jpg
+  alt: Thalassiosira sp. from California
+  caption:
+- image: assets/img/gallery/image_248.jpg
+  alt: Chaetoceros sp. from California
+  caption:
+- image: assets/img/gallery/image_291.jpg
+  alt: Fragilariopsis sp. from Antarctica
+  caption:
+- image: assets/img/gallery/pfraud3.jpg
+  alt: Pseudo-nitzschia sp. from California
+  caption:

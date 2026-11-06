@@ -65,7 +65,7 @@ _styles: |
 <h4>In Review &amp; Revision</h4>
 <ul>
   <li><b>Lampe RH</b>, Wood-Rocca SM, and AE Allen. (in revision) Phytoplankton community responses to environmental change in the California Current Ecosystem.</li>
-  <li><b>Lampe RH</b>, Rao D, Kell RM, Chmiel RJ, Schanke NL, Kim SY, Lees LE, Bolinesi F, Mangoni O, Casotti R, Balestra C, Zheng H, Moran DM, Allen AE, McIlvin MR, DiTullio GR, and MA Saito. (in review) Primary vitamin B<sub>12</sub> limitation and widespread stress in Antarctic phytoplankton.</li>
+  <li><b>Lampe RH</b>, Rao D, Kell RM, Chmiel RJ, Schanke NL, Kim SY, Lees LE, Bolinesi F, Mangoni O, Casotti R, Balestra C, Zheng H, Moran DM, Allen AE, McIlvin MR, DiTullio GR, and MA Saito. (in review) Primary vitamin B<sub>12</sub> limitation and widespread stress in Antarctic phytoplankton. Preprint: <a href="https://doi.org/10.64898/2026.11.05.764676">https://doi.org/10.64898/2026.11.05.764676</a></li>
   <li>de Souza A, Gu S, Kranz SA, Rose J, <b>Lampe RH</b>, Io KH, Deng L, Allen AE, Liu H, Follett C, Landry MR, and N Cassar. (in revision) Coastal hotspots of biological nitrogen fixation in an undersampled region of the eastern Indian Ocean.</li>
   <li>Steck V, <b>Lampe RH</b>, F&#252;ssy Z, Bhakta S, Marrufo KC, Adams JC, Sachdev E, Forsch KO, Barbeau KA, Allen AE, and JM Diaz. (in revision) Atypical phosphatases drive dissolved organic phosphorus utilization by phosphorus-stressed phytoplankton in the California Current Ecosystem. Preprint: <a href="https://doi.org/10.1101/2025.04.09.648040">https://doi.org/10.1101/2025.04.09.648040</a></li>
   <li>Lin YY, Palmer M, <b>Lampe RH</b>, and A Marchetti. (in revision) Co-occurring coastal diatoms exhibit divergent responses to the upwelling cycle.</li>
